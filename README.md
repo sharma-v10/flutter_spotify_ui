@@ -1,5 +1,6 @@
-# Flutter Desktop/Web Spotify UI Tutorial
+# spotify flutter
 
-[YouTube Tutorial](https://youtu.be/HJ1AlSrgZVQ)
+demo video of app
 
-[Flutter Courses](https://launchclub.io)
+https://user-images.githubusercontent.com/94471257/158239339-7c606dfe-b9fe-4480-bfa4-46322a8f5466.mp4
+
